@@ -1,0 +1,47 @@
+.hijos{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: solid black 1px;
+}
+
+/* .navMiLogo{
+    width: 86.29px;
+    height: 80px;
+} */
+
+*{ 
+  font-family: 'Play', sans-serif, Helvetica;
+}
+
+.navOpciones{
+    font-size: 24px;
+}
+
+/* HEADER */
+
+header{
+    background-color: chartreuse;
+    height: 90vh;
+}
+/* .headerContenedor{
+    background-color: brown;
+    height: 90vh;
+} */
+
+.headerLogo{
+    width: 140.22px;
+    height: 130px;
+    padding: 24px;
+}
+
+.headerMensajePrin{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.headerMensajeSec{
+    font-size: 36px;
+    font-weight: bold;
+}
+
